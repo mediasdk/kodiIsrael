@@ -1,6 +1,6 @@
 id="plugin.program.kodiIsrael"
 version="1.0.0"
-zip=""
+zip="https://github.com/mediasdk/kodiIsrael/blob/main/plugin.program.kodiIsrael.zip?raw=true"
 
 name="Kodi Israel"
 version=" [COLOR yellow]1.0[/COLOR] "
